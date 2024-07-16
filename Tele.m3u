@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="http://one-iptv.com/logoX/francetnt/TF1.png" group-title="Marion Pagani",TF1
+http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/9211.ts
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2" tvg-logo="http://one-iptv.com/logoX/francetnt/France2.png" group-title="Marion Pagani",FRANCE 2
+http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/9277.ts
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3" tvg-logo="http://one-iptv.com/logoX/francetnt/France3.png" group-title="Marion Pagani",FRANCE 3
+http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/9276.ts
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="CANAL+ SD" tvg-logo="http://one-iptv.com/imageslogo/CanalPlus.fr.png" group-title="Marion Pagani",CANAL+ SD
+http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/32155.ts
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4 " tvg-logo="http://one-iptv.com/logoX/francetnt/France4.png" group-title="Marion Pagani",FRANCE 4 
+http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/9274.ts
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5" tvg-logo="http://one-iptv.com/logoX/francetnt/France5.png" group-title="Marion Pagani",FRANCE 5
+http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/9273.ts
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="http://one-iptv.com/logoX/francetnt/M6.png" group-title="Marion Pagani",M6
+http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/9260.ts
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="C8" tvg-logo="http://one-iptv.com/logoX/francetnt/C8.png" group-title="Marion Pagani",C8
+http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/9293.ts
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" tvg-logo="http://one-iptv.com/logoX/francetnt/W9.png" group-title="Marion Pagani",W9
+http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/9372.ts
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT" tvg-logo="http://one-iptv.com/imageslogo/CanalPlusSport.fr.png" group-title="Marion Pagani",CANAL+ SPORT
 http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/39203.ts
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT HD" tvg-logo="http://one-iptv.com/imageslogo/CanalPlusSport.fr.png" group-title="Marion Pagani",CANAL+ SPORT HD
@@ -403,8 +421,7 @@ http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/133900.ts
 http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/133944.ts
 #EXTINF:-1 tvg-id="" tvg-name="ROLAND GARROS 6 HD ( LIVE EVENT ONLY )" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="Marion Pagani",ROLAND GARROS 6 HD ( LIVE EVENT ONLY )
 http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/133945.ts
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="http://one-iptv.com/logoX/francetnt/TF1.png" group-title="Marion Pagani",TF1
-http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/9211.ts
+
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="|FR.RP| TF1 HD" tvg-logo="http://one-iptv.com/logoX/francetnt/TF1.png" group-title="Marion Pagani",TF1 HD
 http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/15121.ts
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FHD" tvg-logo="http://one-iptv.com/logoX/francetnt/TF1.png" group-title="Marion Pagani",TF1 FHD
@@ -421,36 +438,26 @@ http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/51148.ts
 http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/51169.ts
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS FHD" tvg-logo="http://one-iptv.com/imageslogo/TF1SeriesFilms.fr.png" group-title="Marion Pagani",TF1 SERIES FILMS FHD
 http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/51172.ts
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2" tvg-logo="http://one-iptv.com/logoX/francetnt/France2.png" group-title="Marion Pagani",FRANCE 2
-http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/9277.ts
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="|FR.RP| FRANCE 2 HD" tvg-logo="http://one-iptv.com/logoX/francetnt/France2.png" group-title="Marion Pagani",FRANCE 2 HD
 http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/15226.ts
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 FHD" tvg-logo="http://one-iptv.com/logoX/francetnt/France2.png" group-title="Marion Pagani",FRANCE 2 FHD
 http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/9546.ts
-#EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3" tvg-logo="http://one-iptv.com/logoX/francetnt/France3.png" group-title="Marion Pagani",FRANCE 3
-http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/9276.ts
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="|FR.RP| FRANCE 3 HD" tvg-logo="http://one-iptv.com/logoX/francetnt/France3.png" group-title="Marion Pagani",FRANCE 3 HD
 http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/15169.ts
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3 FHD" tvg-logo="http://one-iptv.com/logoX/francetnt/France3.png" group-title="Marion Pagani",FRANCE 3 FHD
 http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/9545.ts
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4 " tvg-logo="http://one-iptv.com/logoX/francetnt/France4.png" group-title="Marion Pagani",FRANCE 4 
-http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/9274.ts
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="|FR.RP| FRANCE 4 HD" tvg-logo="http://one-iptv.com/logoX/francetnt/France4.png" group-title="Marion Pagani",FRANCE 4 HD
 http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/15168.ts
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4 FHD" tvg-logo="http://one-iptv.com/logoX/francetnt/France4.png" group-title="Marion Pagani",FRANCE 4 FHD
 http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/9544.ts
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4 FHD BKP" tvg-logo="http://one-iptv.com/logoX/francetnt/France4.png" group-title="Marion Pagani",FRANCE 4 FHD BKP
 http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/51176.ts
-#EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5" tvg-logo="http://one-iptv.com/logoX/francetnt/France5.png" group-title="Marion Pagani",FRANCE 5
-http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/9273.ts
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="|FR.RP| FRANCE 5 HD" tvg-logo="http://one-iptv.com/logoX/francetnt/France5.png" group-title="Marion Pagani",FRANCE 5 HD
 http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/15167.ts
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5 FHD" tvg-logo="http://one-iptv.com/logoX/francetnt/France5.png" group-title="Marion Pagani",FRANCE 5 FHD
 http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/9543.ts
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5 FHD" tvg-logo="http://one-iptv.com/logoX/francetnt/France5.png" group-title="Marion Pagani",FRANCE 5 FHD
 http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/51175.ts
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="http://one-iptv.com/logoX/francetnt/M6.png" group-title="Marion Pagani",M6
-http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/9260.ts
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="|FR.RP| M6 HD" tvg-logo="http://one-iptv.com/logoX/francetnt/M6.png" group-title="Marion Pagani",M6 HD
 http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/15154.ts
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 FHD" tvg-logo="http://one-iptv.com/logoX/francetnt/M6.png" group-title="Marion Pagani",M6 FHD
