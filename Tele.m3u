@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="|FR| CANAL+ SPORT" tvg-logo="http://one-iptv.com/imageslogo/CanalPlusSport.fr.png" group-title="Marion Pagani",CANAL+ SPORT
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT" tvg-logo="http://one-iptv.com/imageslogo/CanalPlusSport.fr.png" group-title="Marion Pagani",CANAL+ SPORT
 http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/39203.ts
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="|FR| CANAL+ SPORT HD" tvg-logo="http://one-iptv.com/imageslogo/CanalPlusSport.fr.png" group-title="Marion Pagani",CANAL+ SPORT HD
 http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/15191.ts
