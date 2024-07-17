@@ -1560,6 +1560,448 @@ http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/271126.ts
 http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/271127.ts
 #EXTINF:-1 tvg-id="" tvg-name="|FR.H265| MTV HITS" tvg-logo="" group-title="Marion Pagani", H265 MTV HITS
 http://tv.pro-ott.com:25443/live/marionpagani/31K1IIEMLI/271128.ts
+#EXTINF:-1 tvg-id="13e.rue.fr" tvg-name="001:13EME RUE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR00113EmeRue.png" group-title="HDTV",001:13EME RUE HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2865
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="002:6 TER HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR0026Ter.png" group-title="HDTV",002:6 TER HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2864
+#EXTINF:-1 tvg-id="ab.moteurs.fr" tvg-name="003:A LA CARTE 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR003ABMoteur.png" group-title="HDTV",003:A LA CARTE 1 HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2863
+#EXTINF:-1 tvg-id="ab.1.fr" tvg-name="004:A LA CARTE 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR004AB1.png" group-title="HDTV",004:A LA CARTE 2 HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2862
+#EXTINF:-1 tvg-id="ab3.fr" tvg-name="005:A LA CARTE 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR005AB3.png" group-title="HDTV",005:A LA CARTE 3 HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2861
+#EXTINF:-1 tvg-id="action.fr" tvg-name="006:A LA CARTE 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR006Action.png" group-title="HDTV",006:A LA CARTE 4 HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2860
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="007:A LA CARTE 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR007Animaux.png" group-title="HDTV",007:A LA CARTE 5 HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2859
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="008:A LA CARTE 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR008Arte.png" group-title="HDTV",008:A LA CARTE 6 HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2858
+#EXTINF:-1 tvg-id="bein.sports.4max.fr" tvg-name="009:A LA CARTE 7 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR009BeinSport4Max.png" group-title="HDTV",009:A LA CARTE 7 HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2857
+#EXTINF:-1 tvg-id="bein.sports.10max.fr" tvg-name="010:A LA CARTE 8 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR010BeinSport10Max.png" group-title="HDTV",010:A LA CARTE 8 HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2856
+#EXTINF:-1 tvg-id="bein.sports.5max.fr" tvg-name="011:A LA CARTE 9 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR011BeinSport5Max.png" group-title="HDTV",011:A LA CARTE 9 HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2855
+#EXTINF:-1 tvg-id="bein.sports.6max.fr" tvg-name="012:A LA CARTE 10 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR012BeinSport6Max.png" group-title="HDTV",012:A LA CARTE 10 HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2854
+#EXTINF:-1 tvg-id="bein.sports.7max.fr" tvg-name="013:A LA CARTE 13 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR013BeinSport7Max.png" group-title="HDTV",013:A LA CARTE 13 HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2853
+#EXTINF:-1 tvg-id="ab.1.fr" tvg-name="014:AB 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR014BeinSport8Max.png" group-title="HDTV",014:AB 1 HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2852
+#EXTINF:-1 tvg-id="ab3.fr" tvg-name="015:AB 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR015BeinSport9Max.png" group-title="HDTV",015:AB 3 HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2851
+#EXTINF:-1 tvg-id="bein.sports.hd1.fr" tvg-name="016:AB EXPLORE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR017BeinSport1.png" group-title="HDTV",016:AB EXPLORE HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2850
+#EXTINF:-1 tvg-id="action.fr" tvg-name="017:ACTION FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR018BeinSport2.png" group-title="HDTV",017:ACTION FHD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2849
+#EXTINF:-1 tvg-id="altice.studio.fr" tvg-name="018:ALTICE STUDIO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR016BeinSport3.png" group-title="HDTV",018:ALTICE STUDIO HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2848
+#EXTINF:-1 tvg-id="bfm.fr" tvg-name="019:AMAZON PRIME 1 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR019BFMTV.png" group-title="HDTV",019:AMAZON PRIME 1 (MATCH TIME)
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2847
+#EXTINF:-1 tvg-id="boing.fr" tvg-name="020:AMAZON PRIME 2 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR020Boing.png" group-title="HDTV",020:AMAZON PRIME 2 (MATCH TIME)
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2846
+#EXTINF:-1 tvg-id="boomerang.fr" tvg-name="021:AMAZON PRIME 3 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR021Boomerang.png" group-title="HDTV",021:AMAZON PRIME 3 (MATCH TIME)
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2845
+#EXTINF:-1 tvg-id="c8.fr" tvg-name="022:AMAZON PRIME 4 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR022C8.png" group-title="HDTV",022:AMAZON PRIME 4 (MATCH TIME)
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2844
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="023:AMAZON PRIME 5 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR023CanalCinema.png" group-title="HDTV",023:AMAZON PRIME 5 (MATCH TIME)
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2843
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="024:AMAZON PRIME 6 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR024CanalDecale.png" group-title="HDTV",024:AMAZON PRIME 6 (MATCH TIME)
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2842
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="025:AMAZON PRIME 7 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR025CanalFamily.png" group-title="HDTV",025:AMAZON PRIME 7 (MATCH TIME)
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2841
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="026:ANIMAUX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR026CanalSeries.png" group-title="HDTV",026:ANIMAUX
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2840
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="027:ARTE FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR027CanalSport.png" group-title="HDTV",027:ARTE FHD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2839
+#EXTINF:-1 tvg-id="automoto.la.chaine.fr" tvg-name="028:AUTOMOTO LA CHAINE FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR028Canal.png" group-title="HDTV",028:AUTOMOTO LA CHAINE FHD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2838
+#EXTINF:-1 tvg-id="baby.fr" tvg-name="029:BABY TV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR029CanalJ.png" group-title="FR Kids",FR029:BABY TV FHD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2837
+#EXTINF:-1 tvg-id="bet.fr" tvg-name="030:BET HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR030CartoonNetwork.png" group-title="HDTV",030:BET HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2836
+#EXTINF:-1 tvg-id="bfm.business.fr" tvg-name="031:BFM BUSINESS FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR031ChasseetPache.png" group-title="HDTV",031:BFM BUSINESS FHD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2835
+#EXTINF:-1 tvg-id="bfm.fr" tvg-name="032:BFM HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR032Cherie25.png" group-title="FR News",FR032:BFM HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2834
+#EXTINF:-1 tvg-id="bfm.paris.ile.france.fr" tvg-name="033:BFM PARIS FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR033CineClass.png" group-title="HDTV",033:BFM PARIS FHD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2833
+#EXTINF:-1 tvg-id="boing.fr" tvg-name="034:BOING FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR034CineEmotion.png" group-title="HDTV",034:BOING FHD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2832
+#EXTINF:-1 tvg-id="boomerang.fr" tvg-name="035:BOOMERANG FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR035CineFamiz.png" group-title="HDTV",035:BOOMERANG FHD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2831
+#EXTINF:-1 tvg-id="bein.sports.1.fr" tvg-name="036:BEIN SPORTS 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR036CineFrisson.png" group-title="HDTV",036:BEIN SPORTS 1 FHD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2830
+#EXTINF:-1 tvg-id="bein.sports.2.fr" tvg-name="037:BEIN SPORTS 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR037" group-title="HDTV",037:BEIN SPORTS 2 FHD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2829
+#EXTINF:-1 tvg-id="bein.sports.3.fr" tvg-name="038:BEIN SPORTS 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR038CinePolar.png" group-title="HDTV",038:BEIN SPORTS 3 FHD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2828
+#EXTINF:-1 tvg-id="bein.sports.max.10.fr" tvg-name="039:BEIN SPORTS MAX 10 FHD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR039CinePermier.png" group-title="HDTV",039:BEIN SPORTS MAX 10 FHD (EVENT ONLY)
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2827
+#EXTINF:-1 tvg-id="bein.sports.max.4.fr" tvg-name="040:BEIN SPORTS MAX 4 FHD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR040ComediePlus.png" group-title="HDTV",040:BEIN SPORTS MAX 4 FHD (EVENT ONLY)
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2826
+#EXTINF:-1 tvg-id="bein.sports.max.5.fr" tvg-name="041:BEIN SPORTS MAX 5 HD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR041CStar.png" group-title="HDTV",041:BEIN SPORTS MAX 5 HD (EVENT ONLY)
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2825
+#EXTINF:-1 tvg-id="bein.sports.max.6.fr" tvg-name="042:BEIN SPORTS MAX 6 HD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR042Discovery.png" group-title="HDTV",042:BEIN SPORTS MAX 6 HD (EVENT ONLY)
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2824
+#EXTINF:-1 tvg-id="bein.sports.max.7.fr" tvg-name="043:BEIN SPORTS MAX 7 HD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR043DiscoveryScience.png" group-title="HDTV",043:BEIN SPORTS MAX 7 HD (EVENT ONLY)
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2823
+#EXTINF:-1 tvg-id="bein.sports.max.8.fr" tvg-name="044:BEIN SPORTS MAX 8 HD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR044DisneyFR.png" group-title="HDTV",044:BEIN SPORTS MAX 8 HD (EVENT ONLY)
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2822
+#EXTINF:-1 tvg-id="bein.sports.max.9.fr" tvg-name="045:BEIN SPORTS MAX 9 HD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR045DisneyCinema.png" group-title="HDTV",045:BEIN SPORTS MAX 9 HD (EVENT ONLY)
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2821
+#EXTINF:-1 tvg-id="cnews.fr" tvg-name="046:C NEWS FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR046DisneyJrFr.png" group-title="FR News",FR046:C NEWS FHD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2820
+#EXTINF:-1 tvg-id="cstar.fr" tvg-name="047:C STAR FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR047DisneyXDFR.png" group-title="HDTV",047:C STAR FHD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2819
+#EXTINF:-1 tvg-id="c8.fr" tvg-name="048:C8 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR048EquidiaeLive.png" group-title="HDTV",048:C8 HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2818
+#EXTINF:-1 tvg-id="canal.alpha.ne.fr" tvg-name="049:CANAL ALPHA FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR049EuroNews.png" group-title="HDTV",049:CANAL ALPHA FHD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2817
+#EXTINF:-1 tvg-id="canal.j.fr" tvg-name="050:CANAL J FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR050EuroSport1FR.png" group-title="HDTV",050:CANAL J FHD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2816
+#EXTINF:-1 tvg-id="eurosport.2.fr" tvg-name="051:CANAL PLAY 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR051EuroSport2FR.png" group-title="HDTV",051:CANAL PLAY 1
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2815
+#EXTINF:-1 tvg-id="france.2.fr" tvg-name="052:CANAL PLAY 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR052France2.png" group-title="HDTV",052:CANAL PLAY 2
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2814
+#EXTINF:-1 tvg-id="france.24.fr" tvg-name="053:CANAL PLAY 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR053France24.png" group-title="HDTV",053:CANAL PLAY 3
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2813
+#EXTINF:-1 tvg-id="france.3.fr" tvg-name="054:CANAL PLAY 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR054France3.png" group-title="HDTV",054:CANAL PLAY 4
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2812
+#EXTINF:-1 tvg-id="france.4.fr" tvg-name="055:CANAL PLAY 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR055France4.png" group-title="HDTV",055:CANAL PLAY 5
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2811
+#EXTINF:-1 tvg-id="france.5.fr" tvg-name="056:CANAL PLAY 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR056France5.png" group-title="HDTV",056:CANAL PLAY 6
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2810
+#EXTINF:-1 tvg-id="france.o.fr" tvg-name="057:CANAL PLAY 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR057FranceO.png" group-title="HDTV",057:CANAL PLAY 7
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2809
+#EXTINF:-1 tvg-id="game.one.fr" tvg-name="058:CANAL PLAY 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR058GameOne.png" group-title="HDTV",058:CANAL PLAY 8
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2808
+#EXTINF:-1 tvg-id="gulli.fr" tvg-name="059:CANAL PLAY 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR059GULLI.png" group-title="HDTV",059:CANAL PLAY 9
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2807
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="060:CANAL PLAY 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR060HD1.png" group-title="HDTV",060:CANAL PLAY 10
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2806
+#EXTINF:-1 tvg-id="" tvg-name="061:CANAL PLAY 13" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR061iTele.png" group-title="HDTV",061:CANAL PLAY 13
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2805
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="062:CANAL PLAY 15" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR062InfoSport.png" group-title="HDTV",062:CANAL PLAY 15
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2804
+#EXTINF:-1 tvg-id="lequipe.fr" tvg-name="063:CANAL PLAY 16" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR063L'EQUIPE21.png" group-title="HDTV",063:CANAL PLAY 16
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2803
+#EXTINF:-1 tvg-id="lci.fr" tvg-name="064:CANAL PLAY 17" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR064LCI.png" group-title="HDTV",064:CANAL PLAY 17
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2802
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="065:CANAL PLAY 18" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR065M6.png" group-title="HDTV",065:CANAL PLAY 18
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2801
+#EXTINF:-1 tvg-id="canal.plus.cinema.fr" tvg-name="066:CANAL+ CINEMA FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR066Mangas.png" group-title="HDTV",066:CANAL+ CINEMA FHD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2800
+#EXTINF:-1 tvg-id="canal.plus.decale.fr" tvg-name="067:CANAL+ DECALE FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR067NATGEO.png" group-title="HDTV",067:CANAL+ DECALE FHD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2799
+#EXTINF:-1 tvg-id="canal.plus.docs.fr" tvg-name="068:CANAL+ DOCS FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR068NATGEOWILD.png" group-title="HDTV",068:CANAL+ DOCS FHD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2798
+#EXTINF:-1 tvg-id="canal.plus.family.fr" tvg-name="069:CANAL+ FAMILY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR069NICKELODEON.png" group-title="HDTV",069:CANAL+ FAMILY
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2797
+#EXTINF:-1 tvg-id="canal.plus.foot.fr" tvg-name="070:CANAL+ FOOT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR070NRJHits.png" group-title="HDTV",070:CANAL+ FOOT
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2796
+#EXTINF:-1 tvg-id="canal.plus.grand.ecran.fr" tvg-name="071:CANAL+ GRAND ECRAN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR071TFX.png" group-title="HDTV",071:CANAL+ GRAND ECRAN
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2795
+#EXTINF:-1 tvg-id="canal.plus.kids.fr" tvg-name="072:CANAL+ KIDS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR072Paramount.png" group-title="FR Kids",FR072:CANAL+ KIDS
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2794
+#EXTINF:-1 tvg-id="canal.plus.motogp.fr" tvg-name="073:CANAL+ MOTOGP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR073PairsPermiere.png" group-title="HDTV",073:CANAL+ MOTOGP
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2793
+#EXTINF:-1 tvg-id="canal.plus.polynesie.fr" tvg-name="074:CANAL+ PL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR074PIWI.png" group-title="HDTV",074:CANAL+ PL
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2792
+#EXTINF:-1 tvg-id="canal.plus.series.fr" tvg-name="075:CANAL+ SERIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR075Planete.png" group-title="HDTV",075:CANAL+ SERIES
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2791
+#EXTINF:-1 tvg-id="canal.plus.sport.fr" tvg-name="076:CANAL+ SPORT FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR076PlaneteA&E.png" group-title="HDTV",076:CANAL+ SPORT FHD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2790
+#EXTINF:-1 tvg-id="canal.plus.sport360.fr" tvg-name="077:CANAL+ SPORT 360" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR077PlaneteCI.png" group-title="HDTV",077:CANAL+ SPORT 360
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2789
+#EXTINF:-1 tvg-id="canal.plus.top14.fr" tvg-name="078:CANAL+ TOP 14" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR078RTL9.png" group-title="HDTV",078:CANAL+ TOP 14
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2788
+#EXTINF:-1 tvg-id="canal.plus.fr" tvg-name="079:CANAL+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR079Seasons.png" group-title="HDTV",079:CANAL+
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2787
+#EXTINF:-1 tvg-id="chasse.et.peche.fr" tvg-name="080:CHASSE & PECHE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR080Ligue1Prime7.png" group-title="HDTV",080:CHASSE & PECHE
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2786
+#EXTINF:-1 tvg-id="cherie.25.fr" tvg-name="081:CHERIE 25 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR081Ligue1Prime8.png" group-title="HDTV",081:CHERIE 25 HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2785
+#EXTINF:-1 tvg-id="cine.polar.fr" tvg-name="082:CINE+ POLAR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR082Ligue1Prime9.png" group-title="HDTV",082:CINE+ POLAR
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2784
+#EXTINF:-1 tvg-id="cine.plus.classic.fr" tvg-name="083:CINE+ CLASSIC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/" group-title="HDTV",083:CINE+ CLASSIC HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2783
+#EXTINF:-1 tvg-id="cine.plus.club.fr" tvg-name="084:CINE+ CLUB HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR084SyfyFR.png" group-title="HDTV",084:CINE+ CLUB HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2782
+#EXTINF:-1 tvg-id="cine.plus.emotion.fr" tvg-name="085:CINE+ EMOTION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR085Teva.png" group-title="HDTV",085:CINE+ EMOTION
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2781
+#EXTINF:-1 tvg-id="cine.plus.famiz.fr" tvg-name="086:CINE+ FAMIZ FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR086SeriesClub.png" group-title="HDTV",086:CINE+ FAMIZ FHD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2780
+#EXTINF:-1 tvg-id="cine.plus.frisson.fr" tvg-name="087:CINE+ FRISSON FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR087TF1.png" group-title="HDTV",087:CINE+ FRISSON FHD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2779
+#EXTINF:-1 tvg-id="cine.fx.fr" tvg-name="088:CINE+ FX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR088TouteLhistoire.png" group-title="HDTV",088:CINE+ FX HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2778
+#EXTINF:-1 tvg-id="cine.plus.premier.fr" tvg-name="089:CINE+ PREMIER FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR089TraceUrban.png" group-title="HDTV",089:CINE+ PREMIER FHD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2777
+#EXTINF:-1 tvg-id="tv.breizh.fr" tvg-name="090:CLIQUE TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR090TVBreizh.png" group-title="HDTV",090:CLIQUE TV
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2776
+#EXTINF:-1 tvg-id="comedie.plus.fr" tvg-name="092:COMEDIE+ HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR092Voyage.png" group-title="HDTV",092:COMEDIE+ HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2774
+#EXTINF:-1 tvg-id="comedy.central.fr" tvg-name="093:COMEDY CENTRAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR093W9.png" group-title="HDTV",093:COMEDY CENTRAL
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2773
+#EXTINF:-1 tvg-id="crime.district.fr" tvg-name="094:CRIME DISTRICT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR09" group-title="HDTV",094:CRIME DISTRICT
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28215
+#EXTINF:-1 tvg-id="discovery.fr" tvg-name="095:DISCOVERY CHANNEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR095" group-title="HDTV",095:DISCOVERY CHANNEL
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28214
+#EXTINF:-1 tvg-id="discovery.f.fr" tvg-name="096:DISCOVERY FAMILY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR096NRJ12HD.png" group-title="HDTV",096:DISCOVERY FAMILY
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28213
+#EXTINF:-1 tvg-id="discovery.investigation.fr" tvg-name="098:DISCOVERY INVESTIGATION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR098" group-title="HDTV",098:DISCOVERY INVESTIGATION
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28211
+#EXTINF:-1 tvg-id="hd8.english.bein" tvg-name="099:DISCOVERY SCI-FI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR101D8.png" group-title="HDTV",099:DISCOVERY SCI-FI
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28208
+#EXTINF:-1 tvg-id="discovery.science.fr" tvg-name="100:DISCOVERY SCIENCE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR102CANALPLAY1.png" group-title="HDTV",100:DISCOVERY SCIENCE
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28207
+#EXTINF:-1 tvg-id="disney.fr" tvg-name="101:DISNEY CHANNEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR103CANALPLAY2.png" group-title="FR Kids",FR101:DISNEY CHANNEL
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28206
+#EXTINF:-1 tvg-id="disney.junior.fr" tvg-name="102:DISNEY JUNIOR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR104CANALPLAY3.png" group-title="FR Kids",FR102:DISNEY JUNIOR HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28205
+#EXTINF:-1 tvg-id="disney.xd.fr" tvg-name="103:DISNEY XD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR105CANALPLAY4.png" group-title="FR Kids",FR103:DISNEY XD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28204
+#EXTINF:-1 tvg-id="disney.plus.1.fr" tvg-name="104:DISNEY CHANNEL+1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR106CANALPLAY5.png" group-title="HDTV",104:DISNEY CHANNEL+1
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28203
+#EXTINF:-1 tvg-id="disney.cinema.fr" tvg-name="105:DISNEY CINEMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR107CANALPLAY6.png" group-title="HDTV",105:DISNEY CINEMA
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28202
+#EXTINF:-1 tvg-id="" tvg-name="106:DISNEY CINEMAGIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR108CANALPLAY7.png" group-title="HDTV",106:DISNEY CINEMAGIC
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28201
+#EXTINF:-1 tvg-id="dreamworks.fr" tvg-name="107:DREAMWORK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR110" group-title="HDTV",107:DREAMWORK
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28199
+#EXTINF:-1 tvg-id="e.fr" tvg-name="108:E! ENTERTAINMENT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR113AmazonPrime9.png" group-title="HDTV",108:E! ENTERTAINMENT
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28196
+#EXTINF:-1 tvg-id="elle.girl.fr" tvg-name="109:ELLE GIRL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR114LaDeux.png" group-title="HDTV",109:ELLE GIRL
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28195
+#EXTINF:-1 tvg-id="equidia.fr" tvg-name="110:EQUIDIA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR115LauneBE.png" group-title="HDTV",110:EQUIDIA HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28194
+#EXTINF:-1 tvg-id="euronews.fr" tvg-name="111:EURONEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR116NUMERO23HD.png" group-title="FR News",FR111:EURONEWS
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28193
+#EXTINF:-1 tvg-id="eurosport.1.fr" tvg-name="112:EUROSPORT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR117OCSCHOCHD.png" group-title="HDTV",112:EUROSPORT 1
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28192
+#EXTINF:-1 tvg-id="eurosport.2.fr" tvg-name="113:EUROSPORT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR118OCSCITY.png" group-title="HDTV",113:EUROSPORT 2
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28191
+#EXTINF:-1 tvg-id="eurosport.360.2.fr" tvg-name="114:EUROSPORT 360 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR119OCSGEANT.png" group-title="HDTV",114:EUROSPORT 360 2
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28190
+#EXTINF:-1 tvg-id="extreme.sports.fr" tvg-name="115:EXTREME SPORTS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR120OCSMAX.png" group-title="HDTV",115:EXTREME SPORTS
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28189
+#EXTINF:-1 tvg-id="fashion.fr" tvg-name="116:FASHION TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR121RMCSport5.png" group-title="HDTV",116:FASHION TV
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28188
+#EXTINF:-1 tvg-id="france.2.fr" tvg-name="117:FRANCE 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR122Eurosport3601.png" group-title="HDTV",117:FRANCE 2 HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28187
+#EXTINF:-1 tvg-id="france.3.fr" tvg-name="118:FRANCE 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR123rmcdecouverte.png" group-title="HDTV",118:FRANCE 3 HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28186
+#EXTINF:-1 tvg-id="france.4.fr" tvg-name="119:FRANCE 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR124" group-title="HDTV",119:FRANCE 4 HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28185
+#EXTINF:-1 tvg-id="france.5.fr" tvg-name="120:FRANCE 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR125RTSUn.png" group-title="HDTV",120:FRANCE 5 HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28184
+#EXTINF:-1 tvg-id="france.o.fr" tvg-name="121:FRANCE O HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/" group-title="HDTV",121:FRANCE O HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28183
+#EXTINF:-1 tvg-id="france.24.fr" tvg-name="122:FRANCE 24 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR127" group-title="HDTV",122:FRANCE 24 HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28182
+#EXTINF:-1 tvg-id="tiji.fr" tvg-name="123:FRANCE INFO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR128Tiji.png" group-title="HDTV",123:FRANCE INFO HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28181
+#EXTINF:-1 tvg-id="game.one.fr" tvg-name="124:GAME ONE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR129RMCSport7.png" group-title="HDTV",124:GAME ONE
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28180
+#EXTINF:-1 tvg-id="golf.plus.fr" tvg-name="125:GOLF+ CHANNEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR130RMCSport8.png" group-title="HDTV",125:GOLF+ CHANNEL
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28179
+#EXTINF:-1 tvg-id="golf.fr" tvg-name="126:GOLF CHANNEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR131Ligue1Prime.png" group-title="HDTV",126:GOLF CHANNEL
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28178
+#EXTINF:-1 tvg-id="gong.fr" tvg-name="127:GONG" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR132Ligue1Prime2.png" group-title="HDTV",127:GONG
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28177
+#EXTINF:-1 tvg-id="gulli.fr" tvg-name="128:GULLI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR133A.LA.CARTE.1.png" group-title="HDTV",128:GULLI
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28176
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="129:HISTOIRE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR135Ligue1Prime3.png" group-title="HDTV",129:HISTOIRE
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28174
+#EXTINF:-1 tvg-id="i24.news.fr" tvg-name="130:I24 NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR136Persiana1.png" group-title="FR News",FR130:I24 NEWS
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28173
+#EXTINF:-1 tvg-id="infosport.plus.fr" tvg-name="131:INFOSPORT+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR137" group-title="HDTV",131:INFOSPORT+
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28172
+#EXTINF:-1 tvg-id="j.one.fr" tvg-name="132:J ONE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR138TMCHD(1080P).png" group-title="HDTV",132:J ONE
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28171
+#EXTINF:-1 tvg-id="kto.fr" tvg-name="133:KTO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR139NT1.png" group-title="HDTV",133:KTO
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28170
+#EXTINF:-1 tvg-id="lequipe.fr" tvg-name="134:L EQUIPE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR140TCMCINEMA.png" group-title="HDTV",134:L EQUIPE
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28169
+#EXTINF:-1 tvg-id="tmc.plus.1.fr" tvg-name="135:LA CHAINE NORMANDE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR141" group-title="HDTV",135:LA CHAINE NORMANDE
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28168
+#EXTINF:-1 tvg-id="la.trois.fr" tvg-name="136:LA TROIS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR142TREKHD.png" group-title="HDTV",136:LA TROIS
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28167
+#EXTINF:-1 tvg-id="la.une.fr" tvg-name="137:LA UNE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR143Eurosport3602.png" group-title="HDTV",137:LA UNE
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28166
+#EXTINF:-1 tvg-id="lci.fr" tvg-name="138:LCI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR144" group-title="HDTV",138:LCI
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28165
+#EXTINF:-1 tvg-id="lcp.fr" tvg-name="139:LCP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR145SundanceTV.png" group-title="HDTV",139:LCP
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28164
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="140:M6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR146TraceMziki.png" group-title="HDTV",140:M6 HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28163
+#EXTINF:-1 tvg-id="mangas.fr" tvg-name="141:MANGAS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR147" group-title="HDTV",141:MANGAS
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28162
+#EXTINF:-1 tvg-id="mcm.fr" tvg-name="142:MCM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR148OrangeCinema1HD.png" group-title="HDTV",142:MCM
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28161
+#EXTINF:-1 tvg-id="mcm.top.fr" tvg-name="143:MCM TOP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR149TraceToca.png" group-title="HDTV",143:MCM TOP
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28160
+#EXTINF:-1 tvg-id="mtv.fr" tvg-name="145:MTV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR151OrangeCinema4HD.png" group-title="HDTV",145:MTV
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28158
+#EXTINF:-1 tvg-id="" tvg-name="144:MONACO INFO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR150OrangeCinema3HD.png" group-title="HDTV",144:MONACO INFO
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28159
+#EXTINF:-1 tvg-id="mtv.hits.fr" tvg-name="146:MTV HITS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR152OrangeCinema5HD.png" group-title="HDTV",146:MTV HITS
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28157
+#EXTINF:-1 tvg-id="museum.fr" tvg-name="147:MUSEUM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR153Ligue1Prime4.png" group-title="HDTV",147:MUSEUM
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28156
+#EXTINF:-1 tvg-id="my.cuisine.fr" tvg-name="149:MY CUISINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR155Ligue1Prime5.png" group-title="HDTV",149:MY CUISINE
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28154
+#EXTINF:-1 tvg-id="" tvg-name="148:MY COMEDY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR154OrangeCinemaAventureHD.png" group-title="HDTV",148:MY COMEDY
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28155
+#EXTINF:-1 tvg-id="national.geographic.fr" tvg-name="150:NAT GEO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR156TraceTropical.png" group-title="HDTV",150:NAT GEO
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28153
+#EXTINF:-1 tvg-id="national.geographic.wild.fr" tvg-name="151:NAT GEO WILD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR157TRACEKITOKO.png" group-title="HDTV",151:NAT GEO WILD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28152
+#EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name="152:NICKELODEON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR158Ligue1Prime6.png" group-title="FR Kids",FR152:NICKELODEON
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28151
+#EXTINF:-1 tvg-id="nickelodeon.junior.fr" tvg-name="153:NICKELODEON JR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR159TV3V.png" group-title="FR Kids",FR153:NICKELODEON JR
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28150
+#EXTINF:-1 tvg-id="nickelodeon.teen.fr" tvg-name="154:NICKELODEON TEEN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR160ALTICESTUDIOHD.png" group-title="FR Kids",FR154:NICKELODEON TEEN
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28149
+#EXTINF:-1 tvg-id="nrj.12.fr" tvg-name="155:NRJ 12" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR161BET.png" group-title="HDTV",155:NRJ 12
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28148
+#EXTINF:-1 tvg-id="nrj.hits.fr" tvg-name="156:NRJ HITS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR162JOne.png" group-title="HDTV",156:NRJ HITS
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28147
+#EXTINF:-1 tvg-id="ocs.choc.fr" tvg-name="158:OCS CHOC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR164FOOT24.png" group-title="HDTV",158:OCS CHOC HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28145
+#EXTINF:-1 tvg-id="ocs.geants.fr" tvg-name="159:OCS GEANTS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR165TV5Style.png" group-title="HDTV",159:OCS GEANTS
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28144
+#EXTINF:-1 tvg-id="ocs.max.fr" tvg-name="160:OCS MAX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR166MCM.png" group-title="HDTV",160:OCS MAX HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28143
+#EXTINF:-1 tvg-id="paramount.fr" tvg-name="161:PARAMOUNT CHANNEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR167MCMTOP.png" group-title="HDTV",161:PARAMOUNT CHANNEL
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28142
+#EXTINF:-1 tvg-id="paris.premiere.fr" tvg-name="162:PARIS PREMIERE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR168Science VieHD.png" group-title="HDTV",162:PARIS PREMIERE
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28141
+#EXTINF:-1 tvg-id="piwi.plus.fr" tvg-name="163:PIWI+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR169CRIMEDISTRICTHD.png" group-title="HDTV",163:PIWI+
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28140
+#EXTINF:-1 tvg-id="planete.plus.fr" tvg-name="164:PLANETE+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR170E!Entertainment.png" group-title="HDTV",164:PLANETE+
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28139
+#EXTINF:-1 tvg-id="planete.plus.aventure.fr" tvg-name="165:PLANETE+ AVENTURE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR171BFMbusiness.png" group-title="HDTV",165:PLANETE+ AVENTURE HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28138
+#EXTINF:-1 tvg-id="planete.plus.crime.fr" tvg-name="166:PLANETE+ CRIME HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR172DiscoveryInvestigationHD.png" group-title="HDTV",166:PLANETE+ CRIME HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28137
+#EXTINF:-1 tvg-id="planete.plus.fr" tvg-name="167:PLANETE+ FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR173BECURIOUSTVHD(1080P).png" group-title="HDTV",167:PLANETE+ FHD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28136
+#EXTINF:-1 tvg-id="rmc.decouverte.fr" tvg-name="168:RMC DECOUVERTE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR174Eurosport3603.png" group-title="HDTV",168:RMC DECOUVERTE
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28135
+#EXTINF:-1 tvg-id="rmc.sport.1.fr" tvg-name="169:RMC SPORT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR175EQUIDIALIFE.png" group-title="HDTV",169:RMC SPORT 1
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28134
+#EXTINF:-1 tvg-id="rmc.sport.2.fr" tvg-name="170:RMC SPORT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR176GOLF.png" group-title="HDTV",170:RMC SPORT 2
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28133
+#EXTINF:-1 tvg-id="rmc.sport.3.fr" tvg-name="171:RMC SPORT 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR177BFMSPORT.png" group-title="HDTV",171:RMC SPORT 3
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28132
+#EXTINF:-1 tvg-id="rmc.sport.4.fr" tvg-name="172:RMC SPORT 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR178Eurosport3604.png" group-title="HDTV",172:RMC SPORT 4
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28131
+#EXTINF:-1 tvg-id="rmc.sport.live.5.fr" tvg-name="173:RMC SPORT 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/" group-title="HDTV",173:RMC SPORT 5
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28130
+#EXTINF:-1 tvg-id="rmc.sport.live.6.fr" tvg-name="174:RMC SPORT 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR180" group-title="HDTV",174:RMC SPORT 6
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28129
+#EXTINF:-1 tvg-id="rmc.sport.live.7.fr" tvg-name="175:RMC SPORT 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR181FRANCE24.png" group-title="HDTV",175:RMC SPORT 7
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28128
+#EXTINF:-1 tvg-id="rmc.sport.live.8.fr" tvg-name="176:RMC SPORT 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR182ALACARTE1.png" group-title="HDTV",176:RMC SPORT 8
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28127
+#EXTINF:-1 tvg-id="rmc.sport.live.9.fr" tvg-name="177:RMC SPORT 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR183ALACARTE2.png" group-title="HDTV",177:RMC SPORT 9
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28126
+#EXTINF:-1 tvg-id="rmc.sport.live.10.fr" tvg-name="178:RMC SPORT 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR184ALACARTE3.png" group-title="HDTV",178:RMC SPORT 10
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28125
+#EXTINF:-1 tvg-id="rmc.sport.news.fr" tvg-name="179:RMC SPORT NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR185ALACARTE4.png" group-title="FR News",FR179:RMC SPORT NEWS
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28124
+#EXTINF:-1 tvg-id="rmc.story.fr" tvg-name="180:RMC STORY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR186ALACARTE5.png" group-title="HDTV",180:RMC STORY
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28123
+#EXTINF:-1 tvg-id="rouge.fr" tvg-name="181:ROUGE TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR188ALACARTE7.png" group-title="HDTV",181:ROUGE TV
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28121
+#EXTINF:-1 tvg-id="rt.france.gb" tvg-name="182:RT FRANCE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR189ALACARTE8.png" group-title="HDTV",182:RT FRANCE
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28120
+#EXTINF:-1 tvg-id="rtl.9.fr" tvg-name="183:RTL 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR190ALACARTE9.png" group-title="HDTV",183:RTL 9
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28119
+#EXTINF:-1 tvg-id="rts.deux.fr" tvg-name="184:RTS DEUX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR191ALACARTE10.png" group-title="HDTV",184:RTS DEUX
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28118
+#EXTINF:-1 tvg-id="rts.un.fr" tvg-name="185:RTS UNE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR192AmazonPrime1.png" group-title="HDTV",185:RTS UNE
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28117
+#EXTINF:-1 tvg-id="science.et.vie.fr" tvg-name="186:SCIENCE & VIE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR193" group-title="HDTV",186:SCIENCE & VIE
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28116
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="187:SEASON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR194AmazonPrime2.png" group-title="HDTV",187:SEASON
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28115
+#EXTINF:-1 tvg-id="serie.club.fr" tvg-name="188:SERIE CLUB FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR195VOSGESTV.png" group-title="HDTV",188:SERIE CLUB FHD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28114
+#EXTINF:-1 tvg-id="sundance.fr" tvg-name="189:CANAL+ F1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR198VICELANDHD.png" group-title="HDTV",189:CANAL+ F1
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28111
+#EXTINF:-1 tvg-id="syfy.fr" tvg-name="190:SYFY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR199USHUAIAHD.png" group-title="HDTV",190:SYFY
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28110
+#EXTINF:-1 tvg-id="tcm.cinema.fr" tvg-name="191:TCM CINEMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR200" group-title="HDTV",191:TCM CINEMA
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28109
+#EXTINF:-1 tvg-id="teletoon.plus.fr" tvg-name="192:TELETOON+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR203BFMPARISHD.png" group-title="HDTV",192:TELETOON+
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28106
+#EXTINF:-1 tvg-id="teva.fr" tvg-name="193:TEVA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR204BlackClassic.png" group-title="HDTV",193:TEVA
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28105
+#EXTINF:-1 tvg-id="tf1.serie.films.fr" tvg-name="194:TF1 SERIES & FILM HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR205RMCSPORTNEWS.png" group-title="HDTV",194:TF1 SERIES & FILM HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28104
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="195:TFI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR206LCP.png" group-title="HDTV",195:TFI
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28103
+#EXTINF:-1 tvg-id="tiji.fr" tvg-name="196:TIJI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR207" group-title="HDTV",196:TIJI
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28102
+#EXTINF:-1 tvg-id="tipik.fr" tvg-name="197:TIPIK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR208COMEDYCENTRALHD.png" group-title="HDTV",197:TIPIK
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28101
+#EXTINF:-1 tvg-id="tmc.fr" tvg-name="198:TMC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR209VIRGIN.png" group-title="HDTV",198:TMC
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28100
+#EXTINF:-1 tvg-id="toonami.fr" tvg-name="199:TOONAMI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR211GOLFHD.png" group-title="HDTV",199:TOONAMI
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28098
+#EXTINF:-1 tvg-id="toute.lhistoire.fr" tvg-name="200:TOUTE L HISTOIRE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR212Bblack!Caribbean.png" group-title="HDTV",200:TOUTE L HISTOIRE
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28097
+#EXTINF:-1 tvg-id="trace.urban.fr" tvg-name="201:TRACE URBAN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR213CPAC.png" group-title="HDTV",201:TRACE URBAN
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28096
+#EXTINF:-1 tvg-id="trek.fr" tvg-name="202:TREK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR214NRJHITSBELGIQUE.png" group-title="HDTV",202:TREK
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28095
+#EXTINF:-1 tvg-id="tv.breizh.fr" tvg-name="203:TV BREIZH" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR215FRANCEINFO.png" group-title="HDTV",203:TV BREIZH
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28094
+#EXTINF:-1 tvg-id="tv5.monde.fr" tvg-name="204:TV5 MONDE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR216SerieClub.png" group-title="HDTV",204:TV5 MONDE
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28093
+#EXTINF:-1 tvg-id="m6.boutique.fr" tvg-name="205:TV5 MONDE INFO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR217M6BoutiqueHD.png" group-title="HDTV",205:TV5 MONDE INFO
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28092
+#EXTINF:-1 tvg-id="m6.music.fr" tvg-name="206:TV7 Colmar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR218M6MusicHits.png" group-title="HDTV",206:TV7 Colmar
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28091
+#EXTINF:-1 tvg-id="ushuaia.fr" tvg-name="208:USHUAIA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR220RTSLADEUXHD.png" group-title="HDTV",208:USHUAIA
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28089
+#EXTINF:-1 tvg-id="voyage.fr" tvg-name="209:VOYAGE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR221AlsaceTV.png" group-title="HDTV",209:VOYAGE
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28088
+#EXTINF:-1 tvg-id="w9.fr" tvg-name="210:W9 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR222SyFyUniversalHD.png" group-title="HDTV",210:W9 HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28087
+#EXTINF:-1 tvg-id="warner.fr" tvg-name="211:WARNER" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR223AmazonPrime3.png" group-title="HDTV",211:WARNER
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28086
+#EXTINF:-1 tvg-id="olympia.fr" tvg-name="212:OLYMPIA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR224" group-title="HDTV",212:OLYMPIA
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28085
+#EXTINF:-1 tvg-id="foot.plus.24.24.fr" tvg-name="213:FOOT+ 24/24 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR225CanalPlay1.png" group-title="HDTV",213:FOOT+ 24/24 HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28084
+#EXTINF:-1 tvg-id="lucky.jack.fr" tvg-name="214:LUCKY JACK TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR226CanalPlay2.png" group-title="HDTV",214:LUCKY JACK TV
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28083
+#EXTINF:-1 tvg-id="" tvg-name="215:NOVELAS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR227CanalPlay3.png" group-title="HDTV",215:NOVELAS HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28082
+#EXTINF:-1 tvg-id="" tvg-name="216:TRACE AFRICA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR228CanalPlay4.png" group-title="HDTV",216:TRACE AFRICA
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28081
+#EXTINF:-1 tvg-id="" tvg-name="217:TRACE CARIBBEAN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR229CanalPlay5.png" group-title="HDTV",217:TRACE CARIBBEAN
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28080
+#EXTINF:-1 tvg-id="" tvg-name="218:TRACE GOSPEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR230CanalPlay6.png" group-title="HDTV",218:TRACE GOSPEL
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28079
+#EXTINF:-1 tvg-id="" tvg-name="219:TRACE SPORT STARS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR231CanalPlay7.png" group-title="HDTV",219:TRACE SPORT STARS HD
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28078
+#EXTINF:-1 tvg-id="" tvg-name="220:TRACE NAIJA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR232CanalPlay8.png" group-title="HDTV",220:TRACE NAIJA
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28077
+#EXTINF:-1 tvg-id="canal.plus.sport.fr" tvg-name="091:CANAL+ SPORT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR091TV5Monde.png" group-title="HDTV",091:CANAL+ SPORT 1
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2775
+#EXTINF:-1 tvg-id="cnews.fr" tvg-name="157:CANAL+ SPORT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR163CNewsHD.png" group-title="HDTV",157:CANAL+ SPORT 2
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28146
+#EXTINF:-1 tvg-id="tvm.fr" tvg-name="207:CANAL+ SPORT 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/" group-title="HDTV",207:CANAL+ SPORT 3
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28090
+#EXTINF:-1 tvg-id="cine.plus.classic.fr" tvg-name="221:CANAL+ SPORT 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/" group-title="HDTV",221:CANAL+ SPORT 4
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28076
+#EXTINF:-1 tvg-id="cine+.classic.fr" tvg-name="222:CANAL+ SPORT 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/" group-title="HDTV",222:CANAL+ SPORT 5
+http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28075
 #EXTINF:-1 tvg-id="13e.rue.fr" tvg-name="001:13EME RUE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR00113EmeRue.png" group-title="Voby",001:13EME RUE HD
 http://31.42.185.54:8880/voby5005/0583b2580cde0947/2865
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="002:6 TER HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR0026Ter.png" group-title="Voby",002:6 TER HD
