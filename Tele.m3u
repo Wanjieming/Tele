@@ -1616,13 +1616,13 @@ http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2840
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2839
 #EXTINF:-1 tvg-id="automoto.la.chaine.fr" tvg-name="028:AUTOMOTO LA CHAINE FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR028Canal.png" group-title="HDTV",028:AUTOMOTO LA CHAINE FHD
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2838
-#EXTINF:-1 tvg-id="baby.fr" tvg-name="029:BABY TV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR029CanalJ.png" group-title="FR Kids",FR029:BABY TV FHD
+#EXTINF:-1 tvg-id="baby.fr" tvg-name="029:BABY TV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR029CanalJ.png" group-title="HDTV",,FR029:BABY TV FHD
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2837
 #EXTINF:-1 tvg-id="bet.fr" tvg-name="030:BET HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR030CartoonNetwork.png" group-title="HDTV",030:BET HD
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2836
 #EXTINF:-1 tvg-id="bfm.business.fr" tvg-name="031:BFM BUSINESS FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR031ChasseetPache.png" group-title="HDTV",031:BFM BUSINESS FHD
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2835
-#EXTINF:-1 tvg-id="bfm.fr" tvg-name="032:BFM HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR032Cherie25.png" group-title="FR News",FR032:BFM HD
+#EXTINF:-1 tvg-id="bfm.fr" tvg-name="032:BFM HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR032Cherie25.png" group-title="HDTV",,FR032:BFM HD
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2834
 #EXTINF:-1 tvg-id="bfm.paris.ile.france.fr" tvg-name="033:BFM PARIS FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR033CineClass.png" group-title="HDTV",033:BFM PARIS FHD
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2833
@@ -1650,7 +1650,7 @@ http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2823
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2822
 #EXTINF:-1 tvg-id="bein.sports.max.9.fr" tvg-name="045:BEIN SPORTS MAX 9 HD (EVENT ONLY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR045DisneyCinema.png" group-title="HDTV",045:BEIN SPORTS MAX 9 HD (EVENT ONLY)
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2821
-#EXTINF:-1 tvg-id="cnews.fr" tvg-name="046:C NEWS FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR046DisneyJrFr.png" group-title="FR News",FR046:C NEWS FHD
+#EXTINF:-1 tvg-id="cnews.fr" tvg-name="046:C NEWS FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR046DisneyJrFr.png" group-title="HDTV",,FR046:C NEWS FHD
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2820
 #EXTINF:-1 tvg-id="cstar.fr" tvg-name="047:C STAR FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR047DisneyXDFR.png" group-title="HDTV",047:C STAR FHD
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2819
@@ -1702,7 +1702,7 @@ http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2797
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2796
 #EXTINF:-1 tvg-id="canal.plus.grand.ecran.fr" tvg-name="071:CANAL+ GRAND ECRAN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR071TFX.png" group-title="HDTV",071:CANAL+ GRAND ECRAN
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2795
-#EXTINF:-1 tvg-id="canal.plus.kids.fr" tvg-name="072:CANAL+ KIDS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR072Paramount.png" group-title="FR Kids",FR072:CANAL+ KIDS
+#EXTINF:-1 tvg-id="canal.plus.kids.fr" tvg-name="072:CANAL+ KIDS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR072Paramount.png" group-title="HDTV",,FR072:CANAL+ KIDS
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2794
 #EXTINF:-1 tvg-id="canal.plus.motogp.fr" tvg-name="073:CANAL+ MOTOGP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR073PairsPermiere.png" group-title="HDTV",073:CANAL+ MOTOGP
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/2793
@@ -1756,11 +1756,11 @@ http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28211
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28208
 #EXTINF:-1 tvg-id="discovery.science.fr" tvg-name="100:DISCOVERY SCIENCE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR102CANALPLAY1.png" group-title="HDTV",100:DISCOVERY SCIENCE
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28207
-#EXTINF:-1 tvg-id="disney.fr" tvg-name="101:DISNEY CHANNEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR103CANALPLAY2.png" group-title="FR Kids",FR101:DISNEY CHANNEL
+#EXTINF:-1 tvg-id="disney.fr" tvg-name="101:DISNEY CHANNEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR103CANALPLAY2.png" group-title="HDTV",,FR101:DISNEY CHANNEL
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28206
-#EXTINF:-1 tvg-id="disney.junior.fr" tvg-name="102:DISNEY JUNIOR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR104CANALPLAY3.png" group-title="FR Kids",FR102:DISNEY JUNIOR HD
+#EXTINF:-1 tvg-id="disney.junior.fr" tvg-name="102:DISNEY JUNIOR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR104CANALPLAY3.png" group-title="HDTV",,FR102:DISNEY JUNIOR HD
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28205
-#EXTINF:-1 tvg-id="disney.xd.fr" tvg-name="103:DISNEY XD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR105CANALPLAY4.png" group-title="FR Kids",FR103:DISNEY XD
+#EXTINF:-1 tvg-id="disney.xd.fr" tvg-name="103:DISNEY XD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR105CANALPLAY4.png" group-title="HDTV",,FR103:DISNEY XD
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28204
 #EXTINF:-1 tvg-id="disney.plus.1.fr" tvg-name="104:DISNEY CHANNEL+1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR106CANALPLAY5.png" group-title="HDTV",104:DISNEY CHANNEL+1
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28203
@@ -1776,7 +1776,7 @@ http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28196
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28195
 #EXTINF:-1 tvg-id="equidia.fr" tvg-name="110:EQUIDIA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR115LauneBE.png" group-title="HDTV",110:EQUIDIA HD
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28194
-#EXTINF:-1 tvg-id="euronews.fr" tvg-name="111:EURONEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR116NUMERO23HD.png" group-title="FR News",FR111:EURONEWS
+#EXTINF:-1 tvg-id="euronews.fr" tvg-name="111:EURONEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR116NUMERO23HD.png" group-title="HDTV",,FR111:EURONEWS
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28193
 #EXTINF:-1 tvg-id="eurosport.1.fr" tvg-name="112:EUROSPORT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR117OCSCHOCHD.png" group-title="HDTV",112:EUROSPORT 1
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28192
@@ -1814,7 +1814,7 @@ http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28177
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28176
 #EXTINF:-1 tvg-id="histoire.fr" tvg-name="129:HISTOIRE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR135Ligue1Prime3.png" group-title="HDTV",129:HISTOIRE
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28174
-#EXTINF:-1 tvg-id="i24.news.fr" tvg-name="130:I24 NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR136Persiana1.png" group-title="FR News",FR130:I24 NEWS
+#EXTINF:-1 tvg-id="i24.news.fr" tvg-name="130:I24 NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR136Persiana1.png" group-title="HDTV",,FR130:I24 NEWS
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28173
 #EXTINF:-1 tvg-id="infosport.plus.fr" tvg-name="131:INFOSPORT+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR137" group-title="HDTV",131:INFOSPORT+
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28172
@@ -1858,11 +1858,11 @@ http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28155
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28153
 #EXTINF:-1 tvg-id="national.geographic.wild.fr" tvg-name="151:NAT GEO WILD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR157TRACEKITOKO.png" group-title="HDTV",151:NAT GEO WILD
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28152
-#EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name="152:NICKELODEON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR158Ligue1Prime6.png" group-title="FR Kids",FR152:NICKELODEON
+#EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name="152:NICKELODEON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR158Ligue1Prime6.png" group-title="HDTV",,FR152:NICKELODEON
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28151
-#EXTINF:-1 tvg-id="nickelodeon.junior.fr" tvg-name="153:NICKELODEON JR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR159TV3V.png" group-title="FR Kids",FR153:NICKELODEON JR
+#EXTINF:-1 tvg-id="nickelodeon.junior.fr" tvg-name="153:NICKELODEON JR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR159TV3V.png" group-title="HDTV",,FR153:NICKELODEON JR
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28150
-#EXTINF:-1 tvg-id="nickelodeon.teen.fr" tvg-name="154:NICKELODEON TEEN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR160ALTICESTUDIOHD.png" group-title="FR Kids",FR154:NICKELODEON TEEN
+#EXTINF:-1 tvg-id="nickelodeon.teen.fr" tvg-name="154:NICKELODEON TEEN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR160ALTICESTUDIOHD.png" group-title="HDTV",,FR154:NICKELODEON TEEN
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28149
 #EXTINF:-1 tvg-id="nrj.12.fr" tvg-name="155:NRJ 12" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR161BET.png" group-title="HDTV",155:NRJ 12
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28148
@@ -1910,7 +1910,7 @@ http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28127
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28126
 #EXTINF:-1 tvg-id="rmc.sport.live.10.fr" tvg-name="178:RMC SPORT 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR184ALACARTE3.png" group-title="HDTV",178:RMC SPORT 10
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28125
-#EXTINF:-1 tvg-id="rmc.sport.news.fr" tvg-name="179:RMC SPORT NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR185ALACARTE4.png" group-title="FR News",FR179:RMC SPORT NEWS
+#EXTINF:-1 tvg-id="rmc.sport.news.fr" tvg-name="179:RMC SPORT NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR185ALACARTE4.png" group-title="HDTV",,FR179:RMC SPORT NEWS
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28124
 #EXTINF:-1 tvg-id="rmc.story.fr" tvg-name="180:RMC STORY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR186ALACARTE5.png" group-title="HDTV",180:RMC STORY
 http://31.42.185.54:8880/hdtv30a6120c16db/39024972/28123
